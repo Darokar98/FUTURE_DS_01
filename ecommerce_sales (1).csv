@@ -1,0 +1,501 @@
+OrderID,OrderDate,Product,Category,Quantity,UnitPrice,TotalSales,Region,CustomerType
+1001,2023-04-13,Gaming Mouse,Accessories,2,495,990,West,Returning
+1002,2023-12-15,Smartwatch,Electronics,4,197,788,East,Returning
+1003,2023-09-28,Wireless Earbuds,Electronics,1,464,464,East,New
+1004,2023-04-17,Bluetooth Speaker,Electronics,4,342,1368,North,New
+1005,2023-03-13,Backpack,Accessories,2,62,124,West,New
+1006,2023-07-08,Smartphone,Electronics,5,261,1305,East,New
+1007,2023-01-21,Wireless Earbuds,Electronics,2,283,566,North,Returning
+1008,2023-04-13,Coffee Maker,Home Appliances,2,437,874,East,New
+1009,2023-05-02,Gaming Mouse,Accessories,4,333,1332,North,Returning
+1010,2023-08-03,Backpack,Accessories,4,236,944,North,New
+1011,2023-11-27,Running Shoes,Fashion,4,413,1652,North,New
+1012,2023-03-29,Backpack,Accessories,3,196,588,East,Returning
+1013,2023-04-10,Smartwatch,Electronics,2,115,230,West,New
+1014,2023-12-26,Bluetooth Speaker,Electronics,4,388,1552,East,New
+1015,2023-06-01,Gaming Mouse,Accessories,1,374,374,North,Returning
+1016,2023-05-11,Wireless Earbuds,Electronics,1,81,81,West,Returning
+1017,2023-05-30,Running Shoes,Fashion,5,206,1030,East,New
+1018,2023-11-05,Smartwatch,Electronics,4,464,1856,North,New
+1019,2023-09-15,Running Shoes,Fashion,4,225,900,East,Returning
+1020,2023-12-10,Smartwatch,Electronics,3,386,1158,West,New
+1021,2023-10-21,Bluetooth Speaker,Electronics,3,415,1245,North,Returning
+1022,2023-07-11,Bluetooth Speaker,Electronics,4,72,288,East,Returning
+1023,2023-10-04,Running Shoes,Fashion,5,200,1000,South,Returning
+1024,2023-06-10,Gaming Mouse,Accessories,2,152,304,East,New
+1025,2023-11-10,Smartphone,Electronics,4,28,112,South,Returning
+1026,2023-01-22,Wireless Earbuds,Electronics,5,249,1245,East,Returning
+1027,2023-09-10,Backpack,Accessories,2,412,824,South,New
+1028,2023-08-24,Coffee Maker,Home Appliances,2,24,48,North,New
+1029,2023-12-11,Office Chair,Furniture,3,155,465,West,New
+1030,2023-02-18,Wireless Earbuds,Electronics,4,164,656,East,New
+1031,2023-02-28,Running Shoes,Fashion,5,151,755,West,Returning
+1032,2023-06-19,Laptop,Electronics,5,383,1915,South,New
+1033,2023-07-07,Coffee Maker,Home Appliances,2,38,76,East,Returning
+1034,2023-09-28,Laptop,Electronics,5,160,800,South,Returning
+1035,2023-07-09,Coffee Maker,Home Appliances,4,495,1980,West,New
+1036,2023-06-24,Running Shoes,Fashion,1,406,406,North,Returning
+1037,2023-02-20,Running Shoes,Fashion,4,388,1552,North,Returning
+1038,2023-12-30,Wireless Earbuds,Electronics,5,153,765,South,Returning
+1039,2023-02-24,Bluetooth Speaker,Electronics,5,222,1110,West,New
+1040,2023-09-01,Smartwatch,Electronics,3,166,498,West,New
+1041,2023-11-16,Smartphone,Electronics,1,324,324,South,New
+1042,2023-05-11,Wireless Earbuds,Electronics,5,73,365,South,New
+1043,2023-11-03,Gaming Mouse,Accessories,1,478,478,West,Returning
+1044,2023-05-15,Backpack,Accessories,4,427,1708,West,New
+1045,2023-01-21,Backpack,Accessories,2,367,734,West,Returning
+1046,2023-11-25,Backpack,Accessories,2,335,670,South,Returning
+1047,2023-06-16,Bluetooth Speaker,Electronics,1,247,247,West,New
+1048,2023-10-01,Office Chair,Furniture,1,220,220,North,New
+1049,2023-03-30,Smartwatch,Electronics,5,239,1195,West,New
+1050,2023-11-12,Laptop,Electronics,5,409,2045,South,New
+1051,2023-01-14,Bluetooth Speaker,Electronics,1,469,469,South,Returning
+1052,2023-08-30,Smartphone,Electronics,3,384,1152,North,New
+1053,2023-09-22,Backpack,Accessories,1,393,393,North,Returning
+1054,2023-12-12,Wireless Earbuds,Electronics,3,360,1080,South,New
+1055,2023-02-22,Running Shoes,Fashion,3,302,906,North,New
+1056,2023-12-06,Wireless Earbuds,Electronics,2,124,248,East,New
+1057,2023-04-02,Wireless Earbuds,Electronics,5,330,1650,South,Returning
+1058,2023-09-21,Wireless Earbuds,Electronics,5,370,1850,North,Returning
+1059,2023-02-04,Laptop,Electronics,5,42,210,North,New
+1060,2023-07-25,Bluetooth Speaker,Electronics,2,477,954,East,New
+1061,2023-03-22,Bluetooth Speaker,Electronics,1,385,385,North,New
+1062,2023-02-19,Smartwatch,Electronics,1,388,388,West,Returning
+1063,2023-12-26,Smartphone,Electronics,4,114,456,West,New
+1064,2023-01-02,Coffee Maker,Home Appliances,2,181,362,South,Returning
+1065,2023-02-23,Laptop,Electronics,3,325,975,West,New
+1066,2023-04-16,Office Chair,Furniture,4,408,1632,South,Returning
+1067,2023-09-17,Running Shoes,Fashion,1,131,131,East,New
+1068,2023-11-06,Gaming Mouse,Accessories,5,360,1800,South,Returning
+1069,2023-07-10,Laptop,Electronics,4,245,980,South,Returning
+1070,2023-08-06,Smartphone,Electronics,2,305,610,East,New
+1071,2023-02-13,Laptop,Electronics,2,327,654,North,Returning
+1072,2023-06-11,Wireless Earbuds,Electronics,4,49,196,East,Returning
+1073,2023-07-21,Laptop,Electronics,1,152,152,North,Returning
+1074,2023-09-27,Coffee Maker,Home Appliances,1,349,349,North,Returning
+1075,2023-12-17,Smartwatch,Electronics,5,53,265,South,New
+1076,2023-10-31,Smartphone,Electronics,5,145,725,East,New
+1077,2023-09-28,Laptop,Electronics,1,170,170,East,Returning
+1078,2023-08-03,Office Chair,Furniture,4,379,1516,West,Returning
+1079,2023-09-09,Running Shoes,Fashion,3,371,1113,East,New
+1080,2023-07-09,Smartphone,Electronics,5,141,705,East,New
+1081,2023-10-23,Bluetooth Speaker,Electronics,5,485,2425,West,Returning
+1082,2023-08-01,Office Chair,Furniture,5,345,1725,North,New
+1083,2023-07-27,Running Shoes,Fashion,4,365,1460,South,Returning
+1084,2023-08-25,Wireless Earbuds,Electronics,2,320,640,East,New
+1085,2023-12-04,Coffee Maker,Home Appliances,1,66,66,North,Returning
+1086,2023-02-22,Backpack,Accessories,3,338,1014,West,New
+1087,2023-10-07,Wireless Earbuds,Electronics,2,311,622,North,Returning
+1088,2023-08-05,Wireless Earbuds,Electronics,3,272,816,West,New
+1089,2023-09-09,Backpack,Accessories,2,47,94,East,Returning
+1090,2023-07-07,Backpack,Accessories,2,384,768,South,Returning
+1091,2023-02-10,Backpack,Accessories,3,26,78,East,New
+1092,2023-06-06,Gaming Mouse,Accessories,3,258,774,West,New
+1093,2023-01-15,Smartphone,Electronics,2,313,626,East,New
+1094,2023-10-28,Running Shoes,Fashion,5,47,235,South,New
+1095,2023-03-06,Running Shoes,Fashion,1,250,250,South,Returning
+1096,2023-12-11,Running Shoes,Fashion,1,32,32,West,New
+1097,2023-11-23,Smartwatch,Electronics,2,86,172,North,New
+1098,2023-01-09,Smartphone,Electronics,4,130,520,South,Returning
+1099,2023-12-10,Backpack,Accessories,1,255,255,East,Returning
+1100,2023-05-09,Running Shoes,Fashion,5,25,125,West,Returning
+1101,2023-05-16,Smartphone,Electronics,3,459,1377,East,New
+1102,2023-03-04,Office Chair,Furniture,5,396,1980,North,New
+1103,2023-05-19,Office Chair,Furniture,5,217,1085,South,New
+1104,2023-03-22,Smartwatch,Electronics,3,465,1395,South,Returning
+1105,2023-06-12,Backpack,Accessories,1,266,266,East,New
+1106,2023-10-16,Backpack,Accessories,5,55,275,West,New
+1107,2023-09-18,Office Chair,Furniture,2,487,974,West,New
+1108,2023-08-19,Smartwatch,Electronics,1,113,113,West,Returning
+1109,2023-02-10,Laptop,Electronics,1,213,213,East,New
+1110,2023-01-28,Backpack,Accessories,2,454,908,North,Returning
+1111,2023-05-15,Bluetooth Speaker,Electronics,2,137,274,West,New
+1112,2023-07-20,Smartwatch,Electronics,1,39,39,North,Returning
+1113,2023-11-24,Wireless Earbuds,Electronics,2,161,322,West,Returning
+1114,2023-09-25,Bluetooth Speaker,Electronics,3,375,1125,North,New
+1115,2023-02-02,Laptop,Electronics,1,409,409,South,Returning
+1116,2023-02-17,Coffee Maker,Home Appliances,5,426,2130,South,Returning
+1117,2023-03-03,Smartphone,Electronics,5,187,935,South,Returning
+1118,2023-08-04,Wireless Earbuds,Electronics,5,348,1740,North,New
+1119,2023-10-20,Backpack,Accessories,3,113,339,East,New
+1120,2023-04-09,Bluetooth Speaker,Electronics,4,255,1020,South,Returning
+1121,2023-06-21,Bluetooth Speaker,Electronics,3,156,468,South,Returning
+1122,2023-12-26,Laptop,Electronics,3,20,60,West,Returning
+1123,2023-08-02,Office Chair,Furniture,4,339,1356,North,Returning
+1124,2023-02-04,Running Shoes,Fashion,5,289,1445,West,Returning
+1125,2023-08-15,Laptop,Electronics,5,184,920,North,New
+1126,2023-04-11,Coffee Maker,Home Appliances,4,108,432,North,Returning
+1127,2023-05-11,Running Shoes,Fashion,2,315,630,West,New
+1128,2023-09-14,Backpack,Accessories,3,144,432,South,New
+1129,2023-01-05,Gaming Mouse,Accessories,1,172,172,North,New
+1130,2023-08-06,Gaming Mouse,Accessories,2,481,962,North,Returning
+1131,2023-09-12,Backpack,Accessories,3,58,174,East,Returning
+1132,2023-12-25,Office Chair,Furniture,3,410,1230,East,Returning
+1133,2023-10-10,Coffee Maker,Home Appliances,4,34,136,East,New
+1134,2023-07-26,Wireless Earbuds,Electronics,4,497,1988,East,New
+1135,2023-01-15,Smartwatch,Electronics,5,57,285,North,New
+1136,2023-12-12,Bluetooth Speaker,Electronics,3,458,1374,North,Returning
+1137,2023-02-11,Smartwatch,Electronics,2,29,58,North,New
+1138,2023-06-28,Coffee Maker,Home Appliances,1,137,137,South,New
+1139,2023-03-04,Smartwatch,Electronics,5,235,1175,West,Returning
+1140,2023-12-18,Backpack,Accessories,5,176,880,East,Returning
+1141,2023-08-19,Smartphone,Electronics,3,114,342,East,New
+1142,2023-08-29,Smartwatch,Electronics,4,301,1204,East,New
+1143,2023-02-21,Bluetooth Speaker,Electronics,4,30,120,South,Returning
+1144,2023-04-06,Backpack,Accessories,2,321,642,East,Returning
+1145,2023-08-10,Coffee Maker,Home Appliances,5,123,615,South,Returning
+1146,2023-08-19,Running Shoes,Fashion,1,130,130,West,Returning
+1147,2023-08-25,Smartwatch,Electronics,4,152,608,West,New
+1148,2023-05-23,Backpack,Accessories,2,111,222,East,Returning
+1149,2023-06-20,Running Shoes,Fashion,3,48,144,South,Returning
+1150,2023-01-29,Running Shoes,Fashion,3,426,1278,North,Returning
+1151,2023-02-05,Bluetooth Speaker,Electronics,5,365,1825,South,Returning
+1152,2023-01-13,Office Chair,Furniture,1,20,20,East,Returning
+1153,2023-06-09,Gaming Mouse,Accessories,3,443,1329,East,New
+1154,2023-11-23,Running Shoes,Fashion,5,156,780,South,Returning
+1155,2023-07-06,Running Shoes,Fashion,5,173,865,North,New
+1156,2023-08-31,Smartwatch,Electronics,1,109,109,East,Returning
+1157,2023-03-27,Smartphone,Electronics,2,494,988,South,New
+1158,2023-10-11,Wireless Earbuds,Electronics,3,462,1386,West,New
+1159,2023-03-07,Laptop,Electronics,1,474,474,West,Returning
+1160,2023-06-19,Bluetooth Speaker,Electronics,1,196,196,North,New
+1161,2023-02-14,Office Chair,Furniture,2,175,350,South,New
+1162,2023-03-03,Wireless Earbuds,Electronics,1,103,103,North,New
+1163,2023-05-14,Smartwatch,Electronics,4,82,328,North,Returning
+1164,2023-10-11,Wireless Earbuds,Electronics,1,243,243,North,Returning
+1165,2023-01-28,Gaming Mouse,Accessories,3,398,1194,West,New
+1166,2023-04-18,Wireless Earbuds,Electronics,5,496,2480,South,Returning
+1167,2023-02-13,Backpack,Accessories,3,37,111,North,Returning
+1168,2023-12-06,Laptop,Electronics,2,213,426,South,Returning
+1169,2023-10-13,Wireless Earbuds,Electronics,2,241,482,South,New
+1170,2023-11-27,Smartwatch,Electronics,1,283,283,North,New
+1171,2023-05-08,Gaming Mouse,Accessories,3,307,921,South,Returning
+1172,2023-12-14,Laptop,Electronics,2,399,798,North,New
+1173,2023-08-19,Gaming Mouse,Accessories,4,307,1228,South,New
+1174,2023-07-09,Backpack,Accessories,1,332,332,East,New
+1175,2023-08-13,Backpack,Accessories,3,274,822,North,Returning
+1176,2023-10-10,Office Chair,Furniture,1,258,258,North,New
+1177,2023-05-01,Laptop,Electronics,1,111,111,East,Returning
+1178,2023-04-26,Smartphone,Electronics,3,115,345,West,Returning
+1179,2023-08-21,Backpack,Accessories,3,419,1257,West,Returning
+1180,2023-09-16,Bluetooth Speaker,Electronics,5,417,2085,East,New
+1181,2023-12-25,Smartphone,Electronics,2,282,564,North,New
+1182,2023-07-17,Bluetooth Speaker,Electronics,3,131,393,North,New
+1183,2023-05-17,Smartwatch,Electronics,5,207,1035,South,Returning
+1184,2023-11-14,Wireless Earbuds,Electronics,5,423,2115,East,Returning
+1185,2023-06-14,Smartphone,Electronics,3,490,1470,East,Returning
+1186,2023-08-13,Smartwatch,Electronics,5,312,1560,South,Returning
+1187,2023-11-03,Running Shoes,Fashion,2,72,144,West,New
+1188,2023-08-22,Smartwatch,Electronics,2,361,722,West,Returning
+1189,2023-06-21,Wireless Earbuds,Electronics,2,177,354,West,New
+1190,2023-06-01,Gaming Mouse,Accessories,1,389,389,East,New
+1191,2023-11-11,Running Shoes,Fashion,2,256,512,North,New
+1192,2023-06-09,Running Shoes,Fashion,3,23,69,South,Returning
+1193,2023-04-06,Smartphone,Electronics,5,94,470,South,Returning
+1194,2023-08-21,Bluetooth Speaker,Electronics,2,375,750,North,Returning
+1195,2023-06-29,Smartphone,Electronics,1,184,184,North,Returning
+1196,2023-04-23,Coffee Maker,Home Appliances,4,106,424,North,Returning
+1197,2023-11-14,Office Chair,Furniture,5,46,230,North,New
+1198,2023-02-21,Office Chair,Furniture,3,187,561,South,Returning
+1199,2023-09-25,Running Shoes,Fashion,5,474,2370,South,New
+1200,2023-10-22,Wireless Earbuds,Electronics,2,488,976,West,Returning
+1201,2023-04-23,Coffee Maker,Home Appliances,2,329,658,East,New
+1202,2023-04-11,Laptop,Electronics,5,311,1555,East,Returning
+1203,2023-04-23,Bluetooth Speaker,Electronics,3,315,945,East,Returning
+1204,2023-03-22,Smartwatch,Electronics,1,206,206,East,Returning
+1205,2023-07-06,Laptop,Electronics,2,74,148,East,Returning
+1206,2023-04-23,Office Chair,Furniture,5,331,1655,North,Returning
+1207,2023-01-02,Smartwatch,Electronics,4,486,1944,East,Returning
+1208,2023-05-10,Wireless Earbuds,Electronics,3,384,1152,East,Returning
+1209,2023-08-08,Running Shoes,Fashion,2,469,938,North,New
+1210,2023-02-23,Running Shoes,Fashion,1,148,148,North,New
+1211,2023-12-09,Backpack,Accessories,2,44,88,East,New
+1212,2023-08-12,Laptop,Electronics,2,248,496,West,Returning
+1213,2023-08-13,Laptop,Electronics,2,31,62,East,New
+1214,2023-05-06,Wireless Earbuds,Electronics,5,36,180,South,New
+1215,2023-05-10,Gaming Mouse,Accessories,1,322,322,West,Returning
+1216,2023-02-22,Backpack,Accessories,3,283,849,East,New
+1217,2023-06-21,Wireless Earbuds,Electronics,5,393,1965,West,Returning
+1218,2023-08-06,Backpack,Accessories,1,485,485,North,Returning
+1219,2023-06-09,Coffee Maker,Home Appliances,1,384,384,South,New
+1220,2023-07-17,Coffee Maker,Home Appliances,1,426,426,South,New
+1221,2023-09-04,Office Chair,Furniture,2,410,820,South,New
+1222,2023-11-20,Bluetooth Speaker,Electronics,1,390,390,West,Returning
+1223,2023-07-22,Smartphone,Electronics,3,234,702,North,Returning
+1224,2023-07-03,Smartwatch,Electronics,3,421,1263,East,Returning
+1225,2023-05-03,Gaming Mouse,Accessories,1,33,33,East,Returning
+1226,2023-09-12,Laptop,Electronics,4,207,828,North,Returning
+1227,2023-10-21,Laptop,Electronics,5,190,950,West,Returning
+1228,2023-10-07,Gaming Mouse,Accessories,4,58,232,East,Returning
+1229,2023-11-21,Wireless Earbuds,Electronics,4,368,1472,South,New
+1230,2023-04-08,Smartphone,Electronics,1,35,35,North,Returning
+1231,2023-07-17,Smartphone,Electronics,3,189,567,South,Returning
+1232,2023-08-28,Gaming Mouse,Accessories,5,160,800,South,Returning
+1233,2023-05-24,Laptop,Electronics,3,58,174,South,Returning
+1234,2023-04-07,Wireless Earbuds,Electronics,5,337,1685,North,Returning
+1235,2023-07-20,Running Shoes,Fashion,4,258,1032,North,Returning
+1236,2023-05-04,Running Shoes,Fashion,4,408,1632,North,Returning
+1237,2023-07-06,Wireless Earbuds,Electronics,3,448,1344,South,Returning
+1238,2023-11-22,Smartphone,Electronics,4,165,660,South,New
+1239,2023-12-15,Running Shoes,Fashion,1,456,456,South,New
+1240,2023-09-16,Running Shoes,Fashion,1,396,396,West,Returning
+1241,2023-05-28,Coffee Maker,Home Appliances,5,80,400,North,New
+1242,2023-09-09,Office Chair,Furniture,3,81,243,North,Returning
+1243,2023-12-12,Running Shoes,Fashion,4,279,1116,East,Returning
+1244,2023-05-27,Smartwatch,Electronics,5,82,410,South,New
+1245,2023-05-28,Laptop,Electronics,5,385,1925,South,New
+1246,2023-12-18,Smartphone,Electronics,1,237,237,North,New
+1247,2023-07-18,Coffee Maker,Home Appliances,3,395,1185,South,New
+1248,2023-11-04,Bluetooth Speaker,Electronics,1,28,28,East,Returning
+1249,2023-05-08,Coffee Maker,Home Appliances,1,80,80,East,Returning
+1250,2023-02-08,Laptop,Electronics,2,357,714,South,New
+1251,2023-12-04,Backpack,Accessories,3,179,537,East,Returning
+1252,2023-12-26,Backpack,Accessories,5,108,540,North,Returning
+1253,2023-05-09,Bluetooth Speaker,Electronics,2,286,572,North,Returning
+1254,2023-09-24,Laptop,Electronics,3,495,1485,North,New
+1255,2023-05-31,Laptop,Electronics,1,245,245,West,Returning
+1256,2023-10-25,Running Shoes,Fashion,1,280,280,East,New
+1257,2023-04-09,Smartphone,Electronics,4,482,1928,South,Returning
+1258,2023-09-20,Bluetooth Speaker,Electronics,2,421,842,South,New
+1259,2023-09-09,Bluetooth Speaker,Electronics,5,100,500,South,Returning
+1260,2023-05-24,Laptop,Electronics,2,342,684,West,Returning
+1261,2023-12-12,Smartphone,Electronics,3,480,1440,North,New
+1262,2023-04-22,Office Chair,Furniture,3,355,1065,West,Returning
+1263,2023-03-01,Wireless Earbuds,Electronics,3,78,234,West,New
+1264,2023-01-02,Running Shoes,Fashion,5,189,945,West,New
+1265,2023-10-31,Office Chair,Furniture,4,26,104,North,New
+1266,2023-09-11,Coffee Maker,Home Appliances,1,50,50,East,Returning
+1267,2023-05-20,Coffee Maker,Home Appliances,3,456,1368,South,New
+1268,2023-02-06,Smartphone,Electronics,4,277,1108,South,New
+1269,2023-06-09,Gaming Mouse,Accessories,2,243,486,North,Returning
+1270,2023-01-09,Wireless Earbuds,Electronics,1,36,36,West,New
+1271,2023-08-21,Smartphone,Electronics,4,467,1868,West,New
+1272,2023-04-09,Laptop,Electronics,3,433,1299,East,Returning
+1273,2023-05-27,Running Shoes,Fashion,2,338,676,West,Returning
+1274,2023-10-31,Bluetooth Speaker,Electronics,5,297,1485,West,Returning
+1275,2023-07-27,Smartwatch,Electronics,2,343,686,East,Returning
+1276,2023-05-11,Wireless Earbuds,Electronics,4,425,1700,North,Returning
+1277,2023-06-01,Office Chair,Furniture,1,41,41,South,Returning
+1278,2023-02-23,Smartphone,Electronics,2,289,578,West,New
+1279,2023-04-30,Smartwatch,Electronics,3,246,738,West,New
+1280,2023-06-10,Gaming Mouse,Accessories,5,414,2070,North,Returning
+1281,2023-04-26,Laptop,Electronics,3,77,231,East,Returning
+1282,2023-03-16,Smartphone,Electronics,2,304,608,West,New
+1283,2023-04-23,Laptop,Electronics,5,58,290,East,New
+1284,2023-04-14,Smartwatch,Electronics,2,194,388,South,Returning
+1285,2023-12-06,Office Chair,Furniture,3,46,138,East,New
+1286,2023-09-11,Backpack,Accessories,4,496,1984,North,New
+1287,2023-08-15,Bluetooth Speaker,Electronics,3,103,309,South,New
+1288,2023-04-22,Running Shoes,Fashion,5,406,2030,East,New
+1289,2023-04-09,Coffee Maker,Home Appliances,4,441,1764,East,Returning
+1290,2023-06-02,Laptop,Electronics,1,300,300,West,Returning
+1291,2023-12-15,Smartphone,Electronics,4,227,908,East,Returning
+1292,2023-12-04,Running Shoes,Fashion,1,112,112,North,Returning
+1293,2023-07-13,Smartphone,Electronics,4,218,872,East,New
+1294,2023-11-06,Bluetooth Speaker,Electronics,4,397,1588,East,Returning
+1295,2023-06-12,Running Shoes,Fashion,1,401,401,West,Returning
+1296,2023-07-27,Smartwatch,Electronics,1,185,185,West,New
+1297,2023-06-18,Office Chair,Furniture,5,136,680,South,Returning
+1298,2023-06-10,Backpack,Accessories,3,83,249,North,New
+1299,2023-03-09,Backpack,Accessories,5,293,1465,South,Returning
+1300,2023-10-16,Smartphone,Electronics,3,320,960,North,New
+1301,2023-10-04,Office Chair,Furniture,1,411,411,East,Returning
+1302,2023-10-31,Laptop,Electronics,1,420,420,West,New
+1303,2023-05-15,Office Chair,Furniture,4,167,668,North,Returning
+1304,2023-07-14,Backpack,Accessories,2,372,744,South,New
+1305,2023-05-08,Wireless Earbuds,Electronics,1,480,480,South,New
+1306,2023-02-02,Smartwatch,Electronics,2,425,850,East,Returning
+1307,2023-06-25,Office Chair,Furniture,2,193,386,South,Returning
+1308,2023-01-22,Smartphone,Electronics,2,394,788,West,New
+1309,2023-08-26,Backpack,Accessories,3,336,1008,East,New
+1310,2023-06-07,Office Chair,Furniture,1,281,281,North,New
+1311,2023-02-07,Running Shoes,Fashion,2,223,446,West,Returning
+1312,2023-08-18,Smartphone,Electronics,4,337,1348,West,Returning
+1313,2023-12-31,Gaming Mouse,Accessories,3,103,309,West,Returning
+1314,2023-02-20,Office Chair,Furniture,2,41,82,South,New
+1315,2023-09-21,Laptop,Electronics,1,207,207,South,Returning
+1316,2023-10-10,Smartphone,Electronics,4,106,424,West,New
+1317,2023-01-27,Running Shoes,Fashion,5,262,1310,South,New
+1318,2023-08-14,Gaming Mouse,Accessories,4,192,768,West,New
+1319,2023-10-04,Gaming Mouse,Accessories,5,202,1010,West,New
+1320,2023-10-13,Smartphone,Electronics,2,230,460,South,New
+1321,2023-04-07,Backpack,Accessories,1,78,78,East,Returning
+1322,2023-10-11,Coffee Maker,Home Appliances,3,54,162,North,New
+1323,2023-11-13,Office Chair,Furniture,1,410,410,West,New
+1324,2023-10-31,Bluetooth Speaker,Electronics,2,464,928,West,Returning
+1325,2023-05-27,Bluetooth Speaker,Electronics,4,239,956,West,Returning
+1326,2023-01-04,Smartwatch,Electronics,4,171,684,South,New
+1327,2023-02-04,Laptop,Electronics,1,439,439,South,New
+1328,2023-07-11,Smartphone,Electronics,4,85,340,East,Returning
+1329,2023-02-18,Smartwatch,Electronics,2,262,524,East,Returning
+1330,2023-01-17,Office Chair,Furniture,5,287,1435,East,New
+1331,2023-06-21,Smartphone,Electronics,5,418,2090,North,New
+1332,2023-08-08,Coffee Maker,Home Appliances,4,259,1036,South,New
+1333,2023-06-07,Coffee Maker,Home Appliances,4,33,132,South,Returning
+1334,2023-02-15,Gaming Mouse,Accessories,5,344,1720,South,New
+1335,2023-01-06,Running Shoes,Fashion,4,400,1600,East,Returning
+1336,2023-04-09,Backpack,Accessories,1,103,103,South,New
+1337,2023-08-21,Office Chair,Furniture,1,398,398,North,New
+1338,2023-02-06,Smartphone,Electronics,3,248,744,North,New
+1339,2023-10-07,Wireless Earbuds,Electronics,4,459,1836,West,New
+1340,2023-12-15,Gaming Mouse,Accessories,3,29,87,East,Returning
+1341,2023-10-29,Coffee Maker,Home Appliances,5,285,1425,West,Returning
+1342,2023-06-30,Running Shoes,Fashion,1,152,152,West,Returning
+1343,2023-04-05,Wireless Earbuds,Electronics,1,83,83,South,Returning
+1344,2023-04-09,Running Shoes,Fashion,3,440,1320,East,New
+1345,2023-07-07,Bluetooth Speaker,Electronics,1,139,139,West,Returning
+1346,2023-04-26,Office Chair,Furniture,4,270,1080,North,Returning
+1347,2023-07-10,Smartphone,Electronics,2,476,952,East,New
+1348,2023-09-10,Smartwatch,Electronics,2,304,608,North,New
+1349,2023-06-10,Laptop,Electronics,5,264,1320,East,New
+1350,2023-09-13,Wireless Earbuds,Electronics,1,198,198,South,Returning
+1351,2023-11-19,Coffee Maker,Home Appliances,4,200,800,South,Returning
+1352,2023-05-08,Smartphone,Electronics,1,325,325,North,New
+1353,2023-01-18,Gaming Mouse,Accessories,3,197,591,East,Returning
+1354,2023-10-08,Office Chair,Furniture,4,170,680,West,Returning
+1355,2023-08-11,Smartwatch,Electronics,2,253,506,West,New
+1356,2023-02-23,Backpack,Accessories,2,360,720,North,New
+1357,2023-02-27,Backpack,Accessories,5,371,1855,South,New
+1358,2023-11-19,Office Chair,Furniture,2,212,424,East,New
+1359,2023-12-26,Coffee Maker,Home Appliances,3,477,1431,South,Returning
+1360,2023-06-23,Smartphone,Electronics,1,45,45,West,New
+1361,2023-10-07,Backpack,Accessories,1,95,95,East,Returning
+1362,2023-04-24,Running Shoes,Fashion,4,308,1232,North,New
+1363,2023-10-15,Bluetooth Speaker,Electronics,5,380,1900,South,Returning
+1364,2023-12-08,Smartphone,Electronics,2,211,422,South,New
+1365,2023-05-31,Running Shoes,Fashion,1,188,188,North,Returning
+1366,2023-05-07,Running Shoes,Fashion,5,96,480,East,New
+1367,2023-06-04,Smartwatch,Electronics,2,400,800,South,Returning
+1368,2023-09-30,Smartwatch,Electronics,3,473,1419,South,Returning
+1369,2023-04-14,Running Shoes,Fashion,3,384,1152,East,New
+1370,2023-10-26,Backpack,Accessories,1,232,232,East,New
+1371,2023-09-03,Coffee Maker,Home Appliances,5,422,2110,West,New
+1372,2023-06-25,Running Shoes,Fashion,1,324,324,West,New
+1373,2023-02-08,Laptop,Electronics,4,121,484,South,New
+1374,2023-06-19,Laptop,Electronics,2,469,938,South,New
+1375,2023-09-04,Laptop,Electronics,5,301,1505,West,Returning
+1376,2023-01-26,Smartphone,Electronics,4,136,544,North,Returning
+1377,2023-12-21,Running Shoes,Fashion,4,152,608,South,Returning
+1378,2023-11-02,Bluetooth Speaker,Electronics,4,247,988,East,New
+1379,2023-01-13,Gaming Mouse,Accessories,2,383,766,East,New
+1380,2023-11-12,Bluetooth Speaker,Electronics,3,355,1065,East,New
+1381,2023-11-09,Running Shoes,Fashion,4,222,888,East,New
+1382,2023-02-05,Smartwatch,Electronics,5,160,800,South,New
+1383,2023-06-22,Smartphone,Electronics,5,471,2355,West,New
+1384,2023-01-20,Smartwatch,Electronics,3,176,528,East,Returning
+1385,2023-11-17,Laptop,Electronics,2,439,878,South,Returning
+1386,2023-09-21,Smartphone,Electronics,1,96,96,West,Returning
+1387,2023-05-22,Running Shoes,Fashion,3,282,846,East,Returning
+1388,2023-05-23,Coffee Maker,Home Appliances,5,178,890,East,New
+1389,2023-04-02,Backpack,Accessories,1,445,445,North,Returning
+1390,2023-12-20,Backpack,Accessories,4,103,412,West,Returning
+1391,2023-11-18,Gaming Mouse,Accessories,1,191,191,West,New
+1392,2023-10-15,Coffee Maker,Home Appliances,3,160,480,East,Returning
+1393,2023-08-03,Office Chair,Furniture,5,233,1165,West,New
+1394,2023-12-08,Coffee Maker,Home Appliances,1,290,290,South,Returning
+1395,2023-02-20,Coffee Maker,Home Appliances,1,144,144,South,Returning
+1396,2023-06-02,Backpack,Accessories,1,173,173,East,New
+1397,2023-07-05,Smartwatch,Electronics,2,171,342,East,Returning
+1398,2023-03-04,Gaming Mouse,Accessories,2,364,728,South,New
+1399,2023-07-09,Smartwatch,Electronics,2,458,916,South,New
+1400,2023-05-05,Wireless Earbuds,Electronics,3,127,381,South,New
+1401,2023-05-30,Gaming Mouse,Accessories,5,484,2420,South,Returning
+1402,2023-11-10,Bluetooth Speaker,Electronics,3,495,1485,East,Returning
+1403,2023-02-27,Coffee Maker,Home Appliances,1,97,97,North,New
+1404,2023-12-08,Running Shoes,Fashion,1,277,277,West,New
+1405,2023-11-01,Gaming Mouse,Accessories,5,165,825,East,Returning
+1406,2023-06-29,Office Chair,Furniture,5,186,930,North,New
+1407,2023-06-19,Gaming Mouse,Accessories,4,321,1284,East,Returning
+1408,2023-11-22,Coffee Maker,Home Appliances,2,307,614,East,New
+1409,2023-09-28,Smartwatch,Electronics,5,372,1860,West,New
+1410,2023-02-23,Running Shoes,Fashion,1,398,398,South,New
+1411,2023-04-11,Gaming Mouse,Accessories,4,288,1152,North,Returning
+1412,2023-09-21,Smartphone,Electronics,4,24,96,West,New
+1413,2023-02-22,Bluetooth Speaker,Electronics,2,86,172,South,Returning
+1414,2023-03-01,Coffee Maker,Home Appliances,3,361,1083,South,Returning
+1415,2023-04-18,Gaming Mouse,Accessories,4,277,1108,South,New
+1416,2023-01-05,Laptop,Electronics,2,490,980,South,Returning
+1417,2023-04-13,Backpack,Accessories,4,461,1844,West,New
+1418,2023-07-15,Running Shoes,Fashion,2,465,930,South,New
+1419,2023-09-19,Gaming Mouse,Accessories,4,164,656,West,Returning
+1420,2023-12-31,Backpack,Accessories,4,22,88,West,Returning
+1421,2023-12-16,Gaming Mouse,Accessories,4,134,536,West,Returning
+1422,2023-02-16,Bluetooth Speaker,Electronics,4,379,1516,West,Returning
+1423,2023-12-21,Wireless Earbuds,Electronics,1,305,305,North,Returning
+1424,2023-11-07,Office Chair,Furniture,2,475,950,East,Returning
+1425,2023-11-04,Wireless Earbuds,Electronics,5,291,1455,West,Returning
+1426,2023-05-24,Smartwatch,Electronics,2,161,322,West,New
+1427,2023-09-26,Gaming Mouse,Accessories,2,256,512,South,New
+1428,2023-05-04,Bluetooth Speaker,Electronics,2,494,988,North,New
+1429,2023-04-16,Wireless Earbuds,Electronics,3,342,1026,West,Returning
+1430,2023-06-07,Gaming Mouse,Accessories,2,215,430,South,New
+1431,2023-05-27,Office Chair,Furniture,3,425,1275,East,New
+1432,2023-05-25,Office Chair,Furniture,4,120,480,West,Returning
+1433,2023-04-30,Wireless Earbuds,Electronics,2,185,370,South,New
+1434,2023-11-15,Laptop,Electronics,2,177,354,South,Returning
+1435,2023-10-02,Laptop,Electronics,4,33,132,North,New
+1436,2023-04-02,Bluetooth Speaker,Electronics,3,85,255,East,Returning
+1437,2023-02-27,Laptop,Electronics,2,225,450,West,Returning
+1438,2023-12-12,Coffee Maker,Home Appliances,1,469,469,North,New
+1439,2023-08-17,Office Chair,Furniture,1,183,183,East,Returning
+1440,2023-04-27,Wireless Earbuds,Electronics,5,455,2275,East,New
+1441,2023-11-14,Running Shoes,Fashion,1,160,160,North,Returning
+1442,2023-10-06,Backpack,Accessories,5,471,2355,North,New
+1443,2023-05-07,Smartwatch,Electronics,5,463,2315,West,Returning
+1444,2023-05-09,Smartwatch,Electronics,2,496,992,West,New
+1445,2023-02-27,Office Chair,Furniture,5,62,310,South,Returning
+1446,2023-05-02,Gaming Mouse,Accessories,3,306,918,East,New
+1447,2023-01-01,Laptop,Electronics,2,285,570,North,Returning
+1448,2023-08-27,Smartphone,Electronics,5,434,2170,West,New
+1449,2023-10-17,Running Shoes,Fashion,3,412,1236,East,New
+1450,2023-04-06,Running Shoes,Fashion,4,209,836,South,New
+1451,2023-05-06,Gaming Mouse,Accessories,4,116,464,West,Returning
+1452,2023-04-28,Gaming Mouse,Accessories,1,120,120,East,Returning
+1453,2023-02-17,Smartwatch,Electronics,5,327,1635,West,Returning
+1454,2023-03-30,Office Chair,Furniture,2,82,164,North,Returning
+1455,2023-08-25,Laptop,Electronics,3,111,333,South,Returning
+1456,2023-09-29,Gaming Mouse,Accessories,5,105,525,North,Returning
+1457,2023-07-08,Gaming Mouse,Accessories,2,81,162,East,New
+1458,2023-07-11,Office Chair,Furniture,5,157,785,East,Returning
+1459,2023-03-10,Backpack,Accessories,5,84,420,North,New
+1460,2023-10-05,Coffee Maker,Home Appliances,2,232,464,North,Returning
+1461,2023-12-15,Bluetooth Speaker,Electronics,5,179,895,West,New
+1462,2023-09-04,Laptop,Electronics,1,207,207,East,New
+1463,2023-03-17,Bluetooth Speaker,Electronics,4,275,1100,East,New
+1464,2023-06-03,Coffee Maker,Home Appliances,4,53,212,West,Returning
+1465,2023-05-24,Smartphone,Electronics,3,252,756,North,Returning
+1466,2023-03-27,Office Chair,Furniture,2,40,80,South,New
+1467,2023-07-04,Wireless Earbuds,Electronics,1,211,211,North,Returning
+1468,2023-10-12,Running Shoes,Fashion,1,148,148,South,Returning
+1469,2023-08-08,Wireless Earbuds,Electronics,2,261,522,South,Returning
+1470,2023-03-10,Backpack,Accessories,5,303,1515,East,New
+1471,2023-02-16,Smartphone,Electronics,3,233,699,West,New
+1472,2023-04-04,Wireless Earbuds,Electronics,4,362,1448,West,New
+1473,2023-08-26,Laptop,Electronics,5,435,2175,West,New
+1474,2023-07-23,Gaming Mouse,Accessories,5,27,135,North,Returning
+1475,2023-08-06,Running Shoes,Fashion,3,404,1212,North,New
+1476,2023-12-07,Backpack,Accessories,3,171,513,North,New
+1477,2023-02-08,Smartwatch,Electronics,5,251,1255,South,New
+1478,2023-04-10,Smartwatch,Electronics,3,455,1365,East,New
+1479,2023-10-16,Gaming Mouse,Accessories,3,47,141,East,New
+1480,2023-09-11,Coffee Maker,Home Appliances,5,280,1400,South,Returning
+1481,2023-08-10,Backpack,Accessories,2,57,114,East,Returning
+1482,2023-12-23,Wireless Earbuds,Electronics,1,348,348,South,New
+1483,2023-01-23,Smartphone,Electronics,3,68,204,West,Returning
+1484,2023-09-07,Smartwatch,Electronics,1,188,188,North,Returning
+1485,2023-01-10,Gaming Mouse,Accessories,2,285,570,North,Returning
+1486,2023-09-03,Backpack,Accessories,2,393,786,North,New
+1487,2023-11-21,Smartphone,Electronics,3,29,87,East,New
+1488,2023-04-10,Backpack,Accessories,2,202,404,North,New
+1489,2023-10-17,Backpack,Accessories,3,353,1059,West,Returning
+1490,2023-06-29,Running Shoes,Fashion,2,297,594,West,Returning
+1491,2023-08-11,Smartwatch,Electronics,5,191,955,West,New
+1492,2023-09-07,Wireless Earbuds,Electronics,5,141,705,West,Returning
+1493,2023-05-27,Gaming Mouse,Accessories,1,287,287,North,New
+1494,2023-04-06,Smartphone,Electronics,5,416,2080,South,New
+1495,2023-09-14,Backpack,Accessories,4,243,972,East,Returning
+1496,2023-11-21,Office Chair,Furniture,3,364,1092,South,Returning
+1497,2023-01-04,Smartphone,Electronics,2,48,96,North,New
+1498,2023-01-16,Smartwatch,Electronics,3,69,207,East,New
+1499,2023-10-07,Laptop,Electronics,4,480,1920,South,New
+1500,2023-12-02,Bluetooth Speaker,Electronics,5,372,1860,West,New
